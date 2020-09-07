@@ -21,5 +21,7 @@ How to play:
   5.Once a fleet is cleared, a faster fleet will appear 
   
   6.You have a maximum of 3 lives
+  
+  7.Try setting high scores!
 
 Parameters can be modified in settings.py, please refrain from editing other game files.
