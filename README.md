@@ -1,9 +1,10 @@
 Liam-Adventure
 
 A Space Invader style 2D shooter minigame built with Pygame. You must help Liam-chan shoot down poops falling from the sky!!!
-
+--------------------------
 
 Prerequisites:
+-------------------
 
 -Python 3 installed on your PC
 
@@ -11,6 +12,7 @@ Prerequisites:
 
 
 How to play:
+------------------
 
   1.Execute Liam-Adventure.py
   
