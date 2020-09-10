@@ -14,7 +14,7 @@ Prerequisites:
 How to play:
 ------------------
 
-  1.Execute Liam-Adventure.py
+  1.Execute main.py
   
   2.Click start button
   
